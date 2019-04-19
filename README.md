@@ -1,3 +1,7 @@
+# Microsoft Learn: Create a UI in Xamarin.Forms apps by using XAML
+
+[//]: # (TODO: Link back to Microsoft Learn module.)
+This project contains the source code for the **Create a UI in Xamarin.Forms apps by using XAML** Microsoft Learn module.
 
 # Contributing
 
